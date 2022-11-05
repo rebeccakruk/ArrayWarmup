@@ -1,0 +1,33 @@
+WARMUP:
+
+1. Create a folder called ArrayWarmup and connect to Git/GitHub
+2. Create an index.html and app.js, link them together
+3. Configure your debugger
+4. Create a variable student_name and give it a value (string)
+5. Create a variable student_gpa and give it a value (number between 0.0 and 4.0)
+6. Create a variable honor_role and give it a value (boolean)
+7. Create an if statement that will print a nice message if the student is on the honor role
+8. Add an else statement that will print an encouraging message otherwise
+
+9. Create an if, else-if, else block that achieves the following:
+  9.1. Print F to the console if the gpa is between 0-1.9
+  9.2. Print D to the console if the gpa is between 2.0-2.4
+  9.3. Print C to the console if the gpa is between 2.5-2.9
+  9.4. Print B to the console if the gpa is between 3.0-3.4
+  9.5. Print A to the console if the gpa is between 3.5-4.0
+
+10. Create an array called student_names and give it 3 values (strings)
+11. Create an array called student_gpas and give it 3 values (numbers)
+12. Create an array called honor_roles and give it 3 values (booleans)
+
+13. Create an if statement that will print a nice message if ALL students are on the honor role
+14. Add an else-if statement that will print a somewhat-nice message if ANY 2 / 3 students are on the honor role
+15. Add an else statement that will print a motivational message otherwise
+
+16. Use the push function to add a new student name, gpa and honor role status.
+17. Create a variable called last_student and assign it the value using the pop function of student_names
+18. Create a variable called last_student_gpa and assign it the value using the pop function of student_gpas
+19. Create a variable called last_student_honor and assign it the value using the pop function of honor_roles
+
+20. Create an if statement that will print the message "Last Student Best Student" if the gpa of the last student is greater than all other students
+
